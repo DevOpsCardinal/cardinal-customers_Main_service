@@ -1,0 +1,3 @@
+[{"FkEmpresa":1, "IdSede":"1", "Nombre":"BlackRiver Branch", "Departamento":"Antioquia", "Municipio":"Rionegro", "Direccion":"Carrea 10 # 42-08", "Encargado":"Piter Languila"},
+ {"FkEmpresa":1, "IdSede":"2", "Nombre":"Ciudad Del Rio", "Departamento":"Antioquia", "Municipio":"Medell\u00edn", "Direccion":"Carrera 30 # 40 B-28 Bodega 18", "Encargado":"Leo Messi"},
+ {"FkEmpresa":1, "IdSede":"3", "Nombre":"Cerro el Volador", "Departamento":"Antioquia", "Municipio":"Robledo", "Direccion":"Calle 55 #  60-12", "Encargado":"Misael Pastrana"}]

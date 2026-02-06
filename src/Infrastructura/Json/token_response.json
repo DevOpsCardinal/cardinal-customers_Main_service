@@ -1,0 +1,12 @@
+{
+    "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcHBsaWNhdGlvbk93bmVySWQiOiIxIiwiQXBwbGljYXRpb25Pd25lck5hbWUiOiJDb21wYW55XzFfTmFtZSIsIkFwcGxpY2F0aW9uSWQiOiIxIiwiQXBwbGljYXRpb25OYW1lIjoiQXBwbGljYXRpb25fMV9OYW1lIiwiQ29tcGFueUlkIjoiMiIsIkNvbXBhbnlOYW1lIjoiQ29tcGFueV8yX05hbWUiLCJVc2VySWQiOiI2IiwiVXNlck5hbWUiOiJlZGdhci50b3JyZXMiLCJHaXZlbk5hbWUiOiJFZGdhciBUb3JyZXMgQWd1ZGVsbyIsIkVtYWlsIjoiZWRnYXIudG9ycmVzLmdAcHJveWVjdG9zLWxhcy10b3JyZXMuY29tIiwiUm9sZUlkIjoiOSIsIlJvbGVOYW1lIjoiUm9sZU5hbWVfMDAwMDAwMDAwMl8wMDAwMDAwMDAxXzAwMDAwMDAwMDIiLCJuYmYiOjE3Njk0NzA0OTksImV4cCI6MTc2OTQ5MjY5OSwiaWF0IjoxNzY5NDkyMDk5LCJpc3MiOiJ2aXRvLmlkZW50aXR5Lmlzc3Vlci5jb20iLCJhdWQiOiIvL2F1ZGllbmNlLnZpdG8uaWRlbnRpdHkuY29tL2F1dGhlbnRpY2FkLXVzZXJzIn0.PCNMBjINUw2kDGwAl07a4bNX0RXA4zk18CmrBNrQy20",
+    "token_type": "Bearer",
+    "issued_at": 639050672994367770,
+    "expires_in": 600,
+    "status": "Success",
+    "scope": "",
+    "application_id": "879FFB6A-4124-41C3-BD24-76C3B2F96109",
+    "company_id": "c5bcea98-2974-4d43-8110-28d402cf5ce2",
+    "user_id": "pedro.perez",
+    "user_avatar": ""
+}
